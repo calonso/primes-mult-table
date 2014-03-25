@@ -1,0 +1,6 @@
+
+class PrimesFinder
+
+
+
+end
