@@ -6,7 +6,6 @@ describe PrimesFinder do
   
   describe 'find method' do
 
-
     describe 'parameters validation' do
 
       it 'accepts a positive, integer number' do
