@@ -11,6 +11,11 @@ To execute run
 
 And it will print the requested table.
 
+And to run test suite run
+
+    bundle install
+    rspec
+
 **Notes:**
 
 * For the primes generator I used my own implementation of Eratosthenes' sieve. I have done some benchmarking and included it as tests using the builtin ruby *Prime* generator benchmarks results as reference. 
